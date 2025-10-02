@@ -24,4 +24,5 @@ dist-ssr
 *.sw?
 
 # Ignore files used for deployment
+.firebase
 
